@@ -1,0 +1,7 @@
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\bin\Debug\NineOrchidBLL.dll
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\bin\Debug\NineOrchidBLL.pdb
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\bin\Debug\NinceOrchidDAL.dll
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\bin\Debug\NinceOrchidDAL.pdb
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\obj\Debug\NineOrchidBLL.csprojResolveAssemblyReference.cache
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\obj\Debug\NineOrchidBLL.dll
+C:\Users\Septian\Documents\Visual Studio 2015\Projects\NineOrchid\NineOrchidBLL\obj\Debug\NineOrchidBLL.pdb
